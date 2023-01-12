@@ -1,0 +1,13 @@
+#cal{
+    text-align: center;
+    color: brown;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
